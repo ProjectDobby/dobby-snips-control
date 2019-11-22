@@ -1,0 +1,5 @@
+{
+  "clientId": "...",
+  "clientSecret": "...",
+  "redirectUri": "http://dobby-assistant.local:1337/spotify-callback"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "dobby-snips-control",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mpc-js": "^1.2.1",
+    "mqtt": "^3.0.0",
+    "request": "^2.88.0",
+    "spotify-web-api-node": "^4.0.0",
+    "ws": "^7.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "scripts": {
+    "start-dev": "nodemon index.js"
+  },
+  "author": "Merlin Westphal",
+  "license": "MIT"
+}
